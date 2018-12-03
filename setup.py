@@ -1,7 +1,8 @@
 from setuptools import setup
     
 with open('README.md') as readme_file:
-    readme = readme_file.read()
+    #readme = readme_file.read()
+    readme = "placeholder"
 
 setup(
     name='gutenbergdammit',
